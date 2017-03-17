@@ -5,4 +5,4 @@ PI=3.14
 area=PI * radius
 
 #Print the result
-print("area of circle=",area)
+print("Area of circle=",area)
