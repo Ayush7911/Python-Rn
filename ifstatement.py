@@ -3,6 +3,5 @@ if input('words: ') == 'Foo':
     print("You entered 'Foo'")
 
     #Normal statement out of block
-
-    print("Good Bye!")
+print("Good Bye!")
 
